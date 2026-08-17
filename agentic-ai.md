@@ -6,6 +6,8 @@
 
 ## What you will build
 
+
+
 Throughout this guide, you will build **ShopMate**, a realistic customer-support agent for an online store. It can:
 
 - understand a customer's goal in natural language;
